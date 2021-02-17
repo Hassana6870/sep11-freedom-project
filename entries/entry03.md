@@ -1,7 +1,7 @@
 # Entry 3
-##### X/X/XX
+##### 2/17/21
 
-Text
+#### So far, I am at the point 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
